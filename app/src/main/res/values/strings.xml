@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">assesment1</string>
+    <string name="app_name">Mobpro 1</string>
+    <string name="bmi_intro">Mari menghitung luas dan keliling persegi panjang! Masukkan data berikut:</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="hitung_intro">Hitung Luas dan Keliling</string>
+    <string name="hitung">Hitung</string>
+    <string name="reset">Reset</string>
+    <string name="luas">Luas: %s</string>
+    <string name="keliling">Keliling: %s</string>
+    <string name="input_invalid">Tidak Boleh Kosong</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="kembali">Kembali</string>
+    <string name="copyright">Hitung Persegi Panjang merupakan sebuah aplikasi Android untuk menghitung
+    keliling dan luas Persegi Panjang sehingga seseorang dapat mengetahui berapa hasil perkalian panjang dan lebar suatu persegi panjang yang akan menghasilkan keliling dan luas.\n\nAplikasi ini dibuat untuk kelas Pemrograman untuk Perangkat Bergerak 1
+        .\n\nCopyright © 2024-2025 Muhammad Ansyari Farhan.\nAll rights reserved.
+    </string>
+
 </resources>
