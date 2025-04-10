@@ -1,3 +1,3 @@
-Nama:Muhammad Ansyari Farhan
+Nama: Muhammad Ansyari Farhan
 
-Nim:60706230027
+NIM: 607062330027
