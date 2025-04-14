@@ -20,7 +20,7 @@ import androidx.compose.ui.unit.dp
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.rememberNavController
 import com.ansyari0027.assesment1.R
-import com.ansyari0027.assesment1.ui.theme.Mobpro1Theme
+import com.ansyari0027.assesment1.ui.theme.Assesment1Theme
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -61,7 +61,7 @@ fun AboutScreen(navController: NavHostController) {
 @Preview(uiMode = Configuration.UI_MODE_NIGHT_YES, showBackground = true)
 @Composable
 fun AboutScreenPreview() {
-    Mobpro1Theme {
+    Assesment1Theme {
         AboutScreen(rememberNavController())
     }
 }
